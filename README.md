@@ -17,7 +17,7 @@ npm install
 
 ## Docker setup
 ```
-Build the image: docker imagr build -t exampleapp .
+Build the image: docker image build -t exampleapp .
 Execute Docker-compose: docker-compose up
 ```
 
